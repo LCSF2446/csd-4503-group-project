@@ -23,10 +23,10 @@ This is a simple site built as part of our coursework. It showcases static web i
 - Created About.html
 - Created Dockerfile
 
-### Isaac (`@`)
+### Isaac (`@c0954832`)
 - 
 
-### Owen (`@`)
+### Owen (`@c0942695`)
 - Created Template
 - Developed CSS
 - Created Logo
