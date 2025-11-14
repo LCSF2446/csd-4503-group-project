@@ -27,6 +27,8 @@ This is a simple site built as part of our coursework. It showcases static web i
 - Created Episodes.html
 - Created JS file
 - Restructured folders
+- Set up Azure VM
+- Automated Azure GitHub pulls
 
 ### Owen (`@c0942695`)
 - Created Template
