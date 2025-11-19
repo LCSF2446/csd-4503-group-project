@@ -15,11 +15,9 @@ services:
     container_name: uptime-kuma
     volumes:
       - ./settings_files/kuma/kumadata:/app/data
-      - ./settings_files/kuma/init:/init
     ports:
       - "3001:3001"
     restart: unless-stopped
-    entrypoint: ["/bin/sh", "/init/init.sh"]
   
   cloudflare-ddns:
     image: oznu/cloudflare-ddns:latest
